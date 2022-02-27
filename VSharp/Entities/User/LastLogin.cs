@@ -1,9 +1,9 @@
 ﻿using System;
 using Newtonsoft.Json;
-using VSharpPlus.Enums;
-using VSharpPlus.Utils;
+using VSharp.Enums;
+using VSharp.Utils;
 
-namespace VSharpPlus.Entities.User
+namespace VSharp.Entities.User
 {
     public class LastLogin
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace VSharpPlus.EventArgs
+namespace VSharp.EventArgs.Media
 {
     public sealed class PhotoCommentDeletedEventArgs : VkEventArgs
     {

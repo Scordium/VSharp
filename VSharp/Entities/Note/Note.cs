@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VSharpPlus.Entities.Note
+namespace VSharp.Entities.Note
 {
     public class Note
     {

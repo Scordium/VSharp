@@ -1,6 +1,6 @@
-﻿using VSharpPlus.Entities.Market;
+﻿using VSharp.Entities.Market;
 
-namespace VSharpPlus.Entities.Group
+namespace VSharp.Entities.Group
 {
     public class GroupMarket
     {

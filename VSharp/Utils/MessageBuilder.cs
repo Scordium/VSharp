@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.Immutable;
 using System.Linq;
 using Newtonsoft.Json;
-using VSharpPlus.Entities;
+using VSharp.Entities;
 
-namespace VSharpPlus.Utils
+namespace VSharp.Utils
 {
     public class MessageBuilder
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using VSharpPlus.Utils;
+using VSharp.Utils;
 
-namespace VSharpPlus.EventArgs
+namespace VSharp.EventArgs
 {
     public sealed class VkPayTransactionEventArgs : VkEventArgs
     {

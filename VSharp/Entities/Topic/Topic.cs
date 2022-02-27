@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VSharpPlus.Entities.Topic
+namespace VSharp.Entities.Topic
 {
     public class Topic
     {

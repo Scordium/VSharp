@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using JsonConverter = Newtonsoft.Json.JsonConverter;
 
-namespace VSharpPlus.Utils
+namespace VSharp.Utils
 {
     public class DateTimeConverter : JsonConverter
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace VSharpPlus.EventArgs.Market
+namespace VSharp.EventArgs.Market
 {
     public sealed class MarketItemCommentDeletedEventArgs : VkEventArgs
     {

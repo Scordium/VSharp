@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using Newtonsoft.Json;
-using VSharpPlus.Utils;
+using VSharp.Utils;
 
-namespace VSharpPlus.Entities.Topic
+namespace VSharp.Entities.Topic
 {
     public class TopicComment
     {

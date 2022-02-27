@@ -1,7 +1,7 @@
 ﻿using System;
-using VSharpPlus.Entities.Media;
+using VSharp.Entities.Media;
 
-namespace VSharpPlus.Entities.Market
+namespace VSharp.Entities.Market
 {
     public class MarketCollection
     {

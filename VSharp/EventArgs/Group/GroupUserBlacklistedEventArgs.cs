@@ -1,10 +1,10 @@
 ﻿using System;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using VSharpPlus.Enums;
-using VSharpPlus.Utils;
+using VSharp.Enums;
+using VSharp.Utils;
 
-namespace VSharpPlus.EventArgs.Group
+namespace VSharp.EventArgs.Group
 {
     public sealed class GroupUserBlacklistedEventArgs : VkEventArgs
     {

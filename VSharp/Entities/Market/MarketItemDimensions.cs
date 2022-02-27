@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace VSharpPlus.Entities.Market
+namespace VSharp.Entities.Market
 {
     public class MarketItemDimensions
     {

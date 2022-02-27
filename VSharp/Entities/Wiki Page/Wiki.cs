@@ -1,7 +1,7 @@
 ﻿using System;
-using VSharpPlus.Enums;
+using VSharp.Enums;
 
-namespace VSharpPlus.Entities.Wiki_Page
+namespace VSharp.Entities.Wiki_Page
 {
     public class Wiki
     {

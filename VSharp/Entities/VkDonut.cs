@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Entities
+﻿namespace VSharp.Entities
 {
     public class VkDonut
     {

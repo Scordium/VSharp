@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Entities.Poll
+﻿namespace VSharp.Entities.Poll
 {
     public class PollAnswer
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using VSharpPlus.Entities.Media;
-using VSharpPlus.Enums;
+using VSharp.Entities.Media;
+using VSharp.Enums;
 
-namespace VSharpPlus.Entities.Application
+namespace VSharp.Entities.Application
 {
     public class Application
     {

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
-using VSharpPlus.Entities.Media;
-using VSharpPlus.Enums;
+using VSharp.Entities.Media;
+using VSharp.Enums;
 
-namespace VSharpPlus.Entities.User
+namespace VSharp.Entities.User
 {
     public class VkUser
     {

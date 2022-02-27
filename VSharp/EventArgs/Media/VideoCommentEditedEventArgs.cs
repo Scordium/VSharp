@@ -1,6 +1,6 @@
-﻿using VSharpPlus.Entities.Media;
+﻿using VSharp.Entities.Media;
 
-namespace VSharpPlus.EventArgs
+namespace VSharp.EventArgs.Media
 {
     public sealed class VideoCommentEditedEventArgs : VkEventArgs
     {

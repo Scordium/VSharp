@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VSharpPlus.Entities.Media
+namespace VSharp.Entities.Media
 {
     public class Audio
     {

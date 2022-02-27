@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json.Linq;
-using VSharpPlus.Entities.Media;
+using VSharp.Entities.Media;
 
-namespace VSharpPlus.EventArgs.Group
+namespace VSharp.EventArgs.Group
 {
     public sealed class GroupPhotoChangedEventArgs : VkEventArgs
     {

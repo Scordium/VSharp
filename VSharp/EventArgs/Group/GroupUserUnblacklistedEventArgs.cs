@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace VSharpPlus.EventArgs.Group
+namespace VSharp.EventArgs.Group
 {
     public sealed class GroupUserUnblacklistedEventArgs : VkEventArgs
     {

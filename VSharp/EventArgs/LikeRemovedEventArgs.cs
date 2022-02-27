@@ -1,8 +1,9 @@
 ﻿using Newtonsoft.Json.Linq;
-using VSharpPlus.Enums;
+using VSharp.Enums;
+
 #pragma warning disable 8604
 
-namespace VSharpPlus.EventArgs
+namespace VSharp.EventArgs
 {
     public sealed class LikeRemovedEventArgs : VkEventArgs
     {

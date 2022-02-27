@@ -1,7 +1,7 @@
 ﻿using Emzi0767.Utilities;
 using Newtonsoft.Json.Linq;
 
-namespace VSharpPlus.EventArgs
+namespace VSharp.EventArgs
 {
     public abstract class VkEventArgs : AsyncEventArgs
     {

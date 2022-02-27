@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Entities.WallPost
+﻿namespace VSharp.Entities.WallPost
 {
     public class PostSource
     {

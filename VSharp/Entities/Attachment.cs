@@ -1,11 +1,11 @@
 ﻿using System;
 using Newtonsoft.Json;
-using VSharpPlus.Entities.Market;
-using VSharpPlus.Entities.Media;
-using VSharpPlus.Enums;
-using VSharpPlus.Entities.WallPost;
+using VSharp.Entities.Market;
+using VSharp.Entities.Media;
+using VSharp.Entities.WallPost;
+using VSharp.Enums;
 
-namespace VSharpPlus.Entities
+namespace VSharp.Entities
 {
     public class Attachment
     {

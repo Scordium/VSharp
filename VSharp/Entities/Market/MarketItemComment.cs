@@ -1,7 +1,6 @@
 ﻿using Newtonsoft.Json;
-using VSharpPlus.Entities.WallPost;
 
-namespace VSharpPlus.Entities.Market
+namespace VSharp.Entities.Market
 {
     public sealed class MarketItemComment : Comment
     {

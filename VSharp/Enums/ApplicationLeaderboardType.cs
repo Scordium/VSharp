@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Enums
+﻿namespace VSharp.Enums
 {
     public enum ApplicationLeaderboardType : byte
     {

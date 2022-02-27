@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace VSharpPlus.EventArgs.Donut
+namespace VSharp.EventArgs.Donut
 {
     public sealed class DonutSubscriptionPriceChangedEventArgs : VkEventArgs
     {

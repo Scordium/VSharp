@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Abstractions
+﻿namespace VSharp.Abstractions
 {
     internal class ENDPOINTS
     {

@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using Newtonsoft.Json;
-using VSharpPlus.Entities.Media;
-using VSharpPlus.Enums;
-using VSharpPlus.Utils;
+using VSharp.Entities.Media;
+using VSharp.Enums;
+using VSharp.Utils;
 
-namespace VSharpPlus.Entities.Market
+namespace VSharp.Entities.Market
 {
     public class MarketItem
     {

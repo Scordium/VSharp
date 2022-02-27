@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace VSharpPlus.Entities
+namespace VSharp.Entities
 {
     public class Coordinates
     {

@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json.Linq;
-using VSharpPlus.Enums;
+using VSharp.Enums;
 
-namespace VSharpPlus.EventArgs.Group
+namespace VSharp.EventArgs.Group
 {
     public sealed class GroupMemberJoinedEventArgs : VkEventArgs
     {

@@ -1,7 +1,6 @@
-﻿using System;
-using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json.Linq;
 
-namespace VSharpPlus.EventArgs.WallPost
+namespace VSharp.EventArgs.WallPost
 {
     public sealed class WallPostCommentDeletedEventArgs : VkEventArgs
     {

@@ -1,28 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Data;
 using System.IO;
 using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
 using Emzi0767.Utilities;
 using Newtonsoft.Json.Linq;
-using VSharpPlus.Abstractions;
-using VSharpPlus.Entities;
-using VSharpPlus.Entities.User;
-using VSharpPlus.EventArgs;
-using VSharpPlus.EventArgs.Donut;
-using VSharpPlus.EventArgs.Group;
-using VSharpPlus.EventArgs.Market;
-using VSharpPlus.EventArgs.Message;
-using VSharpPlus.EventArgs.Topic;
-using VSharpPlus.EventArgs.WallPost;
-using VSharpPlus.Utils;
-using static VSharpPlus.Utils.QueryCreator;
+using VSharp.Abstractions;
+using VSharp.Entities;
+using VSharp.Entities.User;
+using VSharp.EventArgs;
+using VSharp.EventArgs.Donut;
+using VSharp.EventArgs.Group;
+using VSharp.EventArgs.Market;
+using VSharp.EventArgs.Media;
+using VSharp.EventArgs.Message;
+using VSharp.EventArgs.Topic;
+using VSharp.EventArgs.WallPost;
+using VSharp.Utils;
+using static VSharp.Utils.QueryCreator;
 
 
-namespace VSharpPlus.Clients
+namespace VSharp.Clients
 {
     public sealed partial class VkClient : BaseClient
     {

@@ -1,9 +1,6 @@
 ﻿using System.Runtime.Serialization;
-using Emzi0767.Serialization;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
 
-namespace VSharpPlus.Enums
+namespace VSharp.Enums
 {
     
     public enum LikedObjectType

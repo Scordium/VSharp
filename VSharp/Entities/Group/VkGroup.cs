@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using VSharpPlus.Entities.Media;
-using VSharpPlus.Enums;
+using VSharp.Entities.Media;
+using VSharp.Enums;
 
-namespace VSharpPlus.Entities.Group
+namespace VSharp.Entities.Group
 {
     public class VkGroup
     {

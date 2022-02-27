@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.EventArgs.WallPost
+﻿namespace VSharp.EventArgs.WallPost
 {
     public sealed class WallPostCreatedEventArgs : VkEventArgs
     {

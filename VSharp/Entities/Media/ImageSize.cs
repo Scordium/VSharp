@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace VSharpPlus.Entities.Media
+namespace VSharp.Entities.Media
 {
     public class ImageSize
     {

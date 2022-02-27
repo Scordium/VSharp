@@ -1,8 +1,8 @@
 ﻿using System;
 using Newtonsoft.Json;
-using VSharpPlus.Utils;
+using VSharp.Utils;
 
-namespace VSharpPlus.Entities
+namespace VSharp.Entities
 {
     public class Place
     {

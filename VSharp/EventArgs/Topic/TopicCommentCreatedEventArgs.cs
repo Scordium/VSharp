@@ -1,7 +1,6 @@
-﻿using Newtonsoft.Json.Linq;
-using VSharpPlus.Entities.Topic;
+﻿using VSharp.Entities.Topic;
 
-namespace VSharpPlus.EventArgs.Topic
+namespace VSharp.EventArgs.Topic
 {
     public sealed class TopicCommentCreatedEventArgs : VkEventArgs
     {

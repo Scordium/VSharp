@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace VSharpPlus.Entities.Chat
+namespace VSharp.Entities.Chat
 {
     public class VkChat
     {

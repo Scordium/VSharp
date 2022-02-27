@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using VSharpPlus.Entities.WallPost;
+using VSharp.Entities.WallPost;
 
-namespace VSharpPlus.Entities
+namespace VSharp.Entities
 {
     public class VkThread
     {

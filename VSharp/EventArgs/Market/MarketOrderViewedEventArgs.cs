@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.EventArgs.Market
+﻿namespace VSharp.EventArgs.Market
 {
     public class MarketOrderViewedEventArgs : VkEventArgs
     {

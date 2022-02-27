@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
-using VSharpPlus.Enums;
+using VSharp.Enums;
 
-namespace VSharpPlus.Entities.User
+namespace VSharp.Entities.User
 {
     public class UserPersonalViews
     {

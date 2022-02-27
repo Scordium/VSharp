@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Entities.User
+﻿namespace VSharp.Entities.User
 {
     public class UserContact
     {

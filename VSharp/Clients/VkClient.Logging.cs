@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Clients
+﻿namespace VSharp.Clients
 {
     public partial class VkClient
     {

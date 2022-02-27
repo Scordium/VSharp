@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace VSharpPlus.Entities.Group
+namespace VSharp.Entities.Group
 {
     public class GroupCover
     {

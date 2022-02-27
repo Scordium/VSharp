@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.EventArgs.Message
+﻿namespace VSharp.EventArgs.Message
 {
     public sealed class MessageEditedEventArgs : VkEventArgs
     {

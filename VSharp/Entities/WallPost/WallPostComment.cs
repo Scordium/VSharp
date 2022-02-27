@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using Newtonsoft.Json;
-using VSharpPlus.Utils;
+﻿using Newtonsoft.Json;
 
-namespace VSharpPlus.Entities.WallPost
+namespace VSharp.Entities.WallPost
 {
     public sealed class WallPostComment : Comment
     {

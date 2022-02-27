@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Entities.Market
+﻿namespace VSharp.Entities.Market
 {
     public class MarketSection
     {

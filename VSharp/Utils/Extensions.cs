@@ -1,6 +1,4 @@
-﻿using Newtonsoft.Json.Linq;
-
-namespace VSharpPlus.Utils
+﻿namespace VSharp.Utils
 {
     public static class Extensions
     {

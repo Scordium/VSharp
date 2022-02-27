@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using Newtonsoft.Json;
-using VSharpPlus.Enums;
-using VSharpPlus.Utils;
+using VSharp.Enums;
+using VSharp.Utils;
 
-namespace VSharpPlus.Entities.WallPost
+namespace VSharp.Entities.WallPost
 {
     public class WallPost
     {

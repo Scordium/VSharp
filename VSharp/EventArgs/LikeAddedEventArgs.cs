@@ -1,12 +1,10 @@
-﻿using System;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
-using Newtonsoft.Json.Linq;
-using VSharpPlus.Enums;
+﻿using Newtonsoft.Json.Linq;
+using VSharp.Enums;
+
 #pragma warning disable 8602
 #pragma warning disable 8604
 
-namespace VSharpPlus.EventArgs
+namespace VSharp.EventArgs
 {
     public sealed class LikeAddedEventArgs : VkEventArgs
     {

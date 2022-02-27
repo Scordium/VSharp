@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace VSharpPlus.EventArgs.Message
+namespace VSharp.EventArgs.Message
 {
     public sealed class TypingStartedEventArgs : VkEventArgs
     {

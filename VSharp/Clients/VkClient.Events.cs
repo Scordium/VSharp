@@ -1,13 +1,14 @@
 ﻿using Emzi0767.Utilities;
-using VSharpPlus.EventArgs;
-using VSharpPlus.EventArgs.Donut;
-using VSharpPlus.EventArgs.Group;
-using VSharpPlus.EventArgs.Market;
-using VSharpPlus.EventArgs.Message;
-using VSharpPlus.EventArgs.Topic;
-using VSharpPlus.EventArgs.WallPost;
+using VSharp.EventArgs;
+using VSharp.EventArgs.Donut;
+using VSharp.EventArgs.Group;
+using VSharp.EventArgs.Market;
+using VSharp.EventArgs.Media;
+using VSharp.EventArgs.Message;
+using VSharp.EventArgs.Topic;
+using VSharp.EventArgs.WallPost;
 
-namespace VSharpPlus.Clients
+namespace VSharp.Clients
 {
     public partial class VkClient
     {

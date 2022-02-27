@@ -2,13 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using System.Text.Encodings.Web;
-using System.Web;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using Newtonsoft.Json.Serialization;
 
-namespace VSharpPlus.Utils
+namespace VSharp.Utils
 {
     public static class QueryCreator
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace VSharpPlus.Abstractions
+namespace VSharp.Abstractions
 {
     public struct ARGUMENTS
     {

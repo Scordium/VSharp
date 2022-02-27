@@ -1,6 +1,6 @@
-﻿using VSharpPlus.Entities.Market;
+﻿using VSharp.Entities.Market;
 
-namespace VSharpPlus.EventArgs.Market
+namespace VSharp.EventArgs.Market
 {
     public sealed class MarketItemCommentCreatedEventArgs : VkEventArgs
     {

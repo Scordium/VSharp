@@ -1,6 +1,6 @@
-﻿using VSharpPlus.Enums;
+﻿using VSharp.Enums;
 
-namespace VSharpPlus.Entities.User
+namespace VSharp.Entities.User
 {
     public class UserRelative
     {

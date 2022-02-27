@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using VSharpPlus.Entities.Media;
+using VSharp.Entities.Media;
 
-namespace VSharpPlus.Entities.Poll
+namespace VSharp.Entities.Poll
 {
     public class Poll
     {

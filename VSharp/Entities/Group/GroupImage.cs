@@ -1,4 +1,4 @@
-﻿namespace VSharpPlus.Entities.Group
+﻿namespace VSharp.Entities.Group
 {
     public class GroupImage
     {

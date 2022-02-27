@@ -1,6 +1,6 @@
-﻿using VSharpPlus.Entities.WallPost;
+﻿using VSharp.Entities.WallPost;
 
-namespace VSharpPlus.EventArgs.WallPost
+namespace VSharp.EventArgs.WallPost
 {
     public sealed class WallPostCommentRestoredEventArgs : VkEventArgs
     { 
